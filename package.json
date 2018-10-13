@@ -1,0 +1,22 @@
+{
+  "name": "devmeeting-blockchain",
+  "version": "1.0.0",
+  "description": "https://devmeetings.github.io/devmeeting-blockchain/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianTroc/blockchain-parity-workshops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianTroc/blockchain-parity-workshops/issues"
+  },
+  "homepage": "https://github.com/SebastianTroc/blockchain-parity-workshops#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
